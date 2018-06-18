@@ -4,3 +4,5 @@ dev adf readmd readmd
 
 adkf
 dev
+
+git push origin master
