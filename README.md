@@ -7,4 +7,4 @@ dev
 
 git push origin master
 
-git push origin dev
+git push origin dev second
